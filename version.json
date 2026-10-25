@@ -1,1 +1,5 @@
-
+{
+  "version": "v1.0.2+3",
+  "notes": "Pembaruan sistem keamanan RAT, optimasi UI Cyberpunk, dan perbaikan stabilitas server.",
+  "apk_url": "https://raw.githubusercontent.com/kyyZzprojetct/NightCore/main/version.json"
+}
